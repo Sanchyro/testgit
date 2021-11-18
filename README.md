@@ -1,4 +1,4 @@
 # Testgit
 I'm currently following a Git course on Skillshare
 
-Some new stuff in here
+The course im following is created by Kalob Taulien
